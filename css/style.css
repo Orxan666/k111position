@@ -1,0 +1,58 @@
+/* POSITION RELATIVE,ABSOLUTE,FIXED,STICKY,STATIC-default veziyyet */
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+input{
+    outline: none;
+}
+/* .box1 {
+    width: 80%;
+    height: 60vh;
+    border: 3px solid red;
+    margin:20px auto;
+    position: relative;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    /* left: 50%; */
+/* transform: translateY(-50%); */
+/* }   */
+/* -------------- */
+/* .box {
+    width: 33%;
+    border: 2px solid red;
+
+    position: relative;
+}
+.box img {
+    width: 100%;
+    vertical-align: middle;
+}
+.box .overlay {
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    transition: 1s ease-in;
+
+    background-color: rgba(255, 68, 0, 0.542);
+    opacity: 0;
+}
+.box .overlay h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    transform: translate(-50%, -50%);
+}
+.box:hover .overlay {
+    opacity: 1;
+} */
+
